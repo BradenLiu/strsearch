@@ -46,7 +46,7 @@ cl /std:c++17 /O2 strsearch.cpp /link comctl32.lib ole32.lib shell32.lib
 
 ## 界面截图
 
-![界面预览](screenshot.png)
+![界面预览](strsearch.png)
 
 ## 系统要求
 
